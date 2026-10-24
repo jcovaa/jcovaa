@@ -1,2 +1,7 @@
-I'm a student at FEUP, taking informatics and computing engineering
-I'll be adding new projects as I progress in the course
+# Hey, I'm João 👋
+
+Informatics Engineering graduate, currently exploring the world of Information Security.
+
+Interested in cybersecurity, networks, and figuring out how things break (and how to fix them).
+
+Mostly experimenting with code, building projects, and learning something new along the way.
